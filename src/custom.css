@@ -1,0 +1,18 @@
+.basic_container {
+    width: 100vw;
+    background-color: rgba(248, 248, 248, 0.922);
+    padding: 2rem;
+}
+
+.country_selector_row {
+    margin: 1rem 0;
+    padding-bottom: 1rem;
+}
+
+.user_table {
+    margin: 1rem 0;
+}
+
+.top_column {
+    margin-bottom: 0.5rem;
+}
